@@ -1,6 +1,6 @@
 //Creative Tabs
-itemGroup.blocks=Arctic Mod Bloques
-itemGroup.items=Arctic Mod Objetos
+itemGroup.blocks=Bloques de Arctic mod
+itemGroup.items=Objetos de Arctic Mod
 
 //Blocks
 tile.red_ice.name=Hielo Rojo
@@ -39,7 +39,7 @@ sounds.penguin_death=Penguin Death
 
 //Entity
 entity.penguin.name=Pingüino
-entity.seal.name=
+entity.seal.name=Foca
 
 //Config
 category.arctic.spawn=Generar
